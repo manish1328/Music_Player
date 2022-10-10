@@ -8,3 +8,6 @@ Create beautiful UI to play music stored in the "music folder" using the HTML5 a
 - Add play and pause functionality
 - Switch songs
 - Progress bar
+
+## I deplot it on heroku :
+    - To see my project  : https://music-player1328.herokuapp.com/
